@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music App</string>
+    //description ImageButton
+    <string name="image_button_description_play">Button Play Song</string>
+    <string name="image_button_description_next">Button Next Song</string>
+    //description ImageView
+    <string name="image_view_description_avatar_bottom">Avatar Song In The Bottom Control</string>
+    // text time in play song
+    <string name="song_time_start">00:00</string>
+    <string name="song_duration">00:00</string>
+</resources>
